@@ -1,0 +1,3 @@
+spallSubImageForTraining/imageClustersV130B130/accepted/accept186008.jpg
+spallSubImageForTraining/imageClustersV130B130/accepted/accept186009.jpg
+spallSubImageForTraining/imageClustersV130B130/accepted/accept186007.jpg
