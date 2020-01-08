@@ -1,7 +1,6 @@
 # Concrete-Inspection
 콘크리트 구조물 결함 검출
-#### 100x100, 130x130 크기의 이미지를 Pytorch에서 제공하는 CNN 기반의 모델로 학습하고 Test 이미지에 해당 클래스에 해당된다고 판단한 픽셀에
-#### Opencv 엑텡글을 이용하여 구분하는 코드
+#### 100x100, 130x130 크기의 이미지를 Pytorch에서 제공하는 CNN 기반의 모델로 학습하고 Test 이미지에 해당 클래스에 해당된다고 판단한 픽셀에 Opencv 엑텡글을 이용하여 구분하는 코드
 
 # Install
 ` pip install pytorch ` 
