@@ -8,8 +8,9 @@
 
 # Datasets
 아래 사이트에서 Crack과 Spall 결함 데이터셋을 다운받을 수 있다.
-Crack : https://www.dropbox.com/s/m5zg2s0gxu6ygor/crackSubImageForTraining.rar?dl=0
-Spall : https://www.dropbox.com/s/r3sxj33mz1gkt2a/spallSubImageForTraining.rar?dl=
+
+- Crack : https://www.dropbox.com/s/m5zg2s0gxu6ygor/crackSubImageForTraining.rar?dl=0
+- Spall : https://www.dropbox.com/s/r3sxj33mz1gkt2a/spallSubImageForTraining.rar?dl=
 
 # Process
 ## 1. Dataset path
