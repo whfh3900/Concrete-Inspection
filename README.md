@@ -14,12 +14,12 @@
 # Process
 ## 1. Dataset path
 데이터셋 경로 및 클래스가 포함된 텍스트파일을 만들어 준다.
-' cd SPallData '
-' python making_list.py '
+` cd SPallData `
+` python making_list.py `
 
 ## 2. Training
-' python main.py ' 
+` python main.py ` 
 실행하기 전 opts.py에서 하이퍼파라미터 및 기타 argument를 설정하고 실행하는 것을 권장한다.
 
 ## 3. Test
-' python demo_test.py '
+` python demo_test.py `
