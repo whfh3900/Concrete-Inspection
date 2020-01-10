@@ -29,10 +29,14 @@
 
 ## 4. Result
 - Defalt Test
+
 ![175](https://user-images.githubusercontent.com/48546917/72126500-afcd9280-33af-11ea-95d4-22bf5dac3478.png)
+
 ![392](https://user-images.githubusercontent.com/48546917/72126539-ce338e00-33af-11ea-997a-e09cf19f0650.png)
 
 - 중간과제 결과물
+
 ![당인교_거더_결과파일1](https://user-images.githubusercontent.com/48546917/72126730-911bcb80-33b0-11ea-9296-677d31c0100a.jpg)
+
 ![당인교_거더_결과파일2](https://user-images.githubusercontent.com/48546917/72126731-92e58f00-33b0-11ea-979c-526bbee3188d.jpg)
 
